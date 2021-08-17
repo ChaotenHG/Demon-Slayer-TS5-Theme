@@ -1,0 +1,32 @@
+{
+    "name": "Demon Slayer Theme",
+    "description": "Demon slayer Teamspeak 5 Theme",
+    "version": "1.0.0",
+    "identifier": "xyz.chaoten.dslayertheme",
+    "engines": {
+        "teamspeak": 1
+    },
+    "repository": {
+        "url": "https://github.com/ChaotenHG/Demon-Slayer-TS5-Theme/",
+        "directory": ".",
+        "type": "git"
+    },
+    "image": "img.png",
+    "license": "MIT",
+    "author": {
+        "name": "Chaoten",
+        "email": "chaoten@NeverStopGaming.net",
+        "url": "https://NeverStopGaming.net",
+        "userTag": "Chaoten@myteamspeak.com"
+    },
+    "content": {
+        "themes": [
+            {
+                "name": "Mist Hashira",
+                "source": "Mist.css",
+                "image": "Mist.png",
+                "apiVersion": 1
+            }
+        ]
+    }
+}
